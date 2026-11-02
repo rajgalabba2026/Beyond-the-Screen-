@@ -1,0 +1,7 @@
+{
+  "name": "Reduce & Reuse",
+  "description": "Reduce screen time and reuse saved hours for offline passions: reading books, working out, meeting friends, outdoor hobbies, and mindful living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
+  <!-- Phone Outline -->
+  <path
+    d="M 230 110 
+       L 155 110 
+       A 55 55 0 0 0 100 165 
+       L 100 365 
+       A 55 55 0 0 0 155 420 
+       L 265 420 
+       A 55 55 0 0 0 320 365 
+       L 320 200"
+    stroke="#084442"
+    stroke-width="32"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Home indicator pill -->
+  <rect
+    x="180"
+    y="370"
+    width="60"
+    height="16"
+    rx="8"
+    fill="#084442"
+  />
+
+  <!-- Main Upper Leaf -->
+  <path
+    d="M 305 180 
+       C 292 125 328 70 388 50 
+       C 384 110 352 165 305 180 Z"
+    fill="#4CA436"
+  />
+  <path
+    d="M 312 172 C 328 136 352 100 380 62"
+    stroke="#FFFFFF"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-opacity="0.5"
+  />
+
+  <!-- Secondary Lower Leaf -->
+  <path
+    d="M 312 184 
+       C 336 168 376 164 396 196 
+       C 372 216 336 216 312 184 Z"
+    fill="#53AE3B"
+  />
+  <path
+    d="M 320 184 C 344 184 368 188 388 196"
+    stroke="#FFFFFF"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-opacity="0.4"
+  />
+</svg>
